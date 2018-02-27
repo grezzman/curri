@@ -1,0 +1,90 @@
+  
+    #principal {
+    border:double 3px #FD9999;
+    background: black;
+    margin: 0 auto;
+    padding: 20px;
+    width: 70%;
+    height: 245;
+    }
+            
+            
+    #otro {
+    padding: 0 auto;
+             
+    width: 100%;
+    top: -270px;
+    left: 40px;
+    position: relative;
+                 
+    }
+            
+    #santos {
+    border:double 3px #FD9999;
+            
+    margin: 0 auto;
+    padding: 20px;
+    width: 70%;
+    }
+            
+    #real {
+    padding: 0 auto;
+             
+    width: 50%;
+    top: -10px;
+    left:  600px;
+    position: relative;
+    }
+            
+            
+    #madrid {
+    width: 100%;
+    top: -200px;
+    left: 40px;
+    position: relative;
+    }
+            
+    #barca {
+    top: -200px;
+    left: 20px;
+    position: relative;
+    height: 245;
+    padding: 20px;
+    width: 40%;
+    height: 100;
+    }
+           
+    #bar{
+    top: -230px;
+    left: 250px;
+    position: relative;
+    height: 245;
+    padding: 20px;
+    width: 130%;
+        
+    }
+                        #sant{
+                        top: -470px;
+                        left: 300px;
+                        position: relative;
+                        height: 245;
+                        padding: 20px;
+                        width: 330%;
+        
+        }
+            
+            
+     fieldset {
+        margin: o auto;
+        }
+        legend{
+        padding: 10px;
+    width:200px;
+        height:50px;
+            
+   
+        }
+            #mifoto{
+                margin:5px;
+            }
+          
